@@ -1,0 +1,71 @@
+The Kernel Debugging Tools for Linux: 		https://bobcares.com/blog/the-kernel-debugging-tools-for-linux/
+
+Kernel Space Debuggers in Linux:			https://sysplay.in/blog/tag/kdb/
+
+Debugging the Linux Kernel with Qemu and GDB:			https://www.youtube.com/watch?v=2VcA5Wj7IvU
+
+Linux Kernel Testing and Debugging:				https://www.linuxjournal.com/content/linux-kernel-testing-and-debugging
+
+KDB kernel debugger and kdb command:			https://www.ibm.com/docs/en/aix/7.2?topic=aix-kdb-kernel-debugger-kdb-command
+
+Using kgdb, kdb and the kernel debugger internals:		https://www.kernel.org/doc/html/v4.14/dev-tools/kgdb.html
+
+Debugging Kernel Issue Part 1:				https://www.youtube.com/watch?v=V5b4VtHu4hw&list=PLJcsV34Rinj_8K2IBzpigISyG5q_r2Ktp
+
+Linux Kernel Debugging, Kdump, Crash Tool Basics Part-1| Easy Explanation | Youtube:
+								https://www.youtube.com/watch?v=6l0ulgv1OJ4
+								
+								
+Troubleshoot Linux kernel panic with the kdump crash tool(NFS Server):
+				https://www.techtarget.com/searchdatacenter/tip/Troubleshoot-Linux-kernel-panic-with-kdump-crash-tool
+				
+How To Configure NFS Server & Client in Linux || RHEL 7 || Centos 7:
+						https://www.youtube.com/watch?v=MBqZe5d9BNQ
+						
+KGDB Tutorial:						https://www.youtube.com/watch?v=67cxIXLCfUk
+
+KDB kernel debugger and kdb command:				https://www.ibm.com/docs/en/aix/7.2?topic=aix-kdb-kernel-debugger-kdb-command
+
+Profiling in Linux - gprof:			https://www.youtube.com/watch?v=ynjQcFZUQwg
+
+KGDB Part 4 - Installing kernel on target:		https://www.youtube.com/watch?v=R3cB9UV2xpQ
+
+(our github repository):		https://github.com/Pratik-Gangurde/Project-6.git
+
+Debugging kernel and modules via gdb:			https://www.kernel.org/doc/html/next/dev-tools/gdb-kernel-debugging.html
+
+Debugging your Linux Kernel Module:			https://medium.com/@navaneethrvce/debugging-your-linux-kernel-module-21bf8a8728ba
+	
+Debugging the Linux kernel using the GDB:		https://wiki.st.com/stm32mpu/wiki/Debugging_the_Linux_kernel_using_the_GDB
+
+Kernel modules:		https://linux-kernel-labs.github.io/refs/heads/master/labs/kernel_modules.html
+
+Core dump Analysis for Linux Application Debugging Part1 www rulingminds com:		https://www.youtube.com/watch?v=3MsiN27xE4c
+
+Linux kernel profiling with perf:		https://perf.wiki.kernel.org/index.php/Tutorial#Introduction
+
+How to Build Linux Kernel From Scratch {Step-By-Step Guide}:		https://phoenixnap.com/kb/build-linux-kernel
+
+Analyzing a core dump:		https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/9/html/managing_monitoring_and_updating_the_kernel/analyzing-a-core-dump_managing-monitoring-and-updating-the-kernel
+
+Debugging your Linux Kernel Module:		https://medium.com/@navaneethrvce/debugging-your-linux-kernel-module-21bf8a8728ba
+
+how to use gdb to debug kernel module:		https://www.perplexity.ai/search/1fbf3708-02ab-4286-bad2-9d561fb3e18a?s=u
+
+Introduction to Linux Kernel Crash Analysis - Alex Juncu
+:		https://www.youtube.com/watch?v=w8XnnG68rqE
+
+how to use gdb for .ko file:		https://www.perplexity.ai/search/13e4b4fd-8ecf-42a5-a323-09986ac5c6e2?s=u
+
+How to read the Core Dump file after segmentation fault?:		https://www.youtube.com/watch?v=UOns2zDUv30
+
+How to use kdump for Linux Kernel Crash Analysis:		https://www.thegeekstuff.com/2014/05/kdump/
+
+Debugging your Linux Kernel Module:		https://medium.com/@navaneethrvce/debugging-your-linux-kernel-module-21bf8a8728ba
+
+how to use crash kdump utilities in centos for .ko module:		https://www.perplexity.ai/search/5640d97e-099f-4bca-947b-7163f503fd32?s=u
+
+installing kgdb on centos(perplexed ai)	https://www.perplexity.ai/search/b33570ea-5f1a-489a-a4d1-c1164a0e4c69?s=u					
+
+																
+
